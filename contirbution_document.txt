@@ -1,0 +1,15 @@
+1.The code you used as a code base.
+Baseline model is from Stanford NLP cs225n final default project.
+https://github.com/chrischute/squad
+
+2.The parts of the code that were written by entirely by you.
+Modified CNN & CharEmbedding class from original BiDAF model
+refer to 'Minjoon et al: Bidirectional Attention Flow for Machine Comprehension'; 'https://arxiv.org/pdf/1611.01603.pdf'; 'https://github.com/jojonki/BiDAF'
+
+Modified Self attention class from R-net
+refer to 'R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS'; 'https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf'; 'https://github.com/NLPLearn/R-net'
+
+External library: Allennlp https://github.com/allenai/allennlp/tree/master/allennlp/modules
+
+3.A link to your public repository where a history of your commits can be verified.
+https://github.com/xw-yao/Project
